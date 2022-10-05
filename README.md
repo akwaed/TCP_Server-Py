@@ -8,3 +8,5 @@ This project was impemented using a VMare having three linux computers running U
 
 <br>The scripts for unnig the server from the client is:
 !curl http://<server ip>:8888/<router>:6789/helloworld.html # To check for a file in the server passing through the router!curl http:6789/helloworld.html # To check for a file in the server directly from client
+
+  <h4>sample run</h4>
